@@ -1,3 +1,4 @@
 Django>=1.7
 dj-database-url==0.3.0
+django-toolbelt
 requests==2.4.3
